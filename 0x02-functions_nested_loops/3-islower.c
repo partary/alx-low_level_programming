@@ -4,7 +4,7 @@
 /**
  * _islower - function name
  * @c : variable
- * description :a function that check for lowercase character 
+ * description :check lowercase character 
  *
  * Return: int
  */
